@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 HELLO WORLD 1.0
 =======
 HELLO WORLD 1.1
+>>>>>>> day3
+=======
+HELLO WORLD 1.0
+
 >>>>>>> day3
